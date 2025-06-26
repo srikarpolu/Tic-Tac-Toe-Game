@@ -17,4 +17,6 @@ A classic two-player web game built with **HTML**, **CSS**, and **vanilla JavaSc
 
 1. **Clone** the repo:
    ```bash
-   git clone https://github.com/<srikarpolu>/Tic-Tac-Toe-Game.git
+   git clone https://github.com/srikarpolu/Tic-Tac-Toe-Game.git
+
+
